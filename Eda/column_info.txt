@@ -1,0 +1,81 @@
+Column: Gender
+  - male
+  - female
+Number of unique values: 2
+-----------
+Column: Age
+  - 18 - 34
+  - 35 - 50
+  - 51 - 64
+  - 65+
+Number of unique values: 4
+-----------
+Column: History
+  - yes
+  - no
+Number of unique values: 2
+-----------
+Column: Patient
+  - no
+  - yes
+Number of unique values: 2
+-----------
+Column: TakeMedication
+  - no
+  - yes
+Number of unique values: 2
+-----------
+Column: Severity
+  - mild
+  - sever
+  - moderate
+Number of unique values: 3
+-----------
+Column: BreathShortness
+  - no
+  - yes
+Number of unique values: 2
+-----------
+Column: VisualChanges
+  - no
+  - yes
+Number of unique values: 2
+-----------
+Column: NoseBleeding
+  - no
+  - yes
+Number of unique values: 2
+-----------
+Column: Whendiagnoused
+  - <1 year
+  - 1 - 5 years
+  - >5 years
+Number of unique values: 3
+-----------
+Column: Systolic
+  - 111 - 120
+  - 121 - 130
+  - 130+
+  - 100+
+Number of unique values: 4
+-----------
+Column: Diastolic
+  - 81 - 90
+  - 91 - 100
+  - 100+
+  - 130+
+  - 70 - 80
+Number of unique values: 5
+-----------
+Column: ControlledDiet
+  - no
+  - yes
+Number of unique values: 2
+-----------
+Column: Stages
+  - hypertension (stage-1)
+  - hypertension (stage-2)
+  - hypertensive crisis
+  - normal
+Number of unique values: 4
+-----------
